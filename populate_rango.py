@@ -1,9 +1,4 @@
-# -- coding: utf-8 --
-"""
-Created on Sun Feb  9 22:23:56 2020
 
-@author: wexne
-"""
 
 import os
 os.environ.setdefault('DJANGO_SETTINGS_MODULE','tango_with_django_project.settings')
